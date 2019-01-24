@@ -1,0 +1,4 @@
+HashName,FilePath,width,height,Pos.x,Pos.y,scale
+bg,../Resource/Image/background.jpg,500,332,960,540,3.8
+gr,../Resource/Image/ground.png,960,540,960,1250,2.1
+train,../Resource/Image/train.png,852,196,960,500,2
